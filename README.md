@@ -155,6 +155,4 @@ There are many methods for operating on hashes and their individual key/value pa
 ## Resources
 * [RailsBridge](http://docs.railsbridge.org) - [Data Types](http://docs.railsbridge.org/ruby/datatypes)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/data-types-readme' title='Data Types'>Data Types</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/data-types-readme'>Ruby Data Types</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Data Types</p>
